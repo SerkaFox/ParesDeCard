@@ -29,7 +29,7 @@ Para compilar y ejecutar el juego en **modo Java**, abre la terminal (`cmd` o `P
 
 ### 1️⃣ **Compilar el código**
 ```sh
-javac MemoryGameServer.java MemoryGameClient.java
+javac MemoryGameServer.java MemoryGameClient.java MemoryGame.java
 ```
 Esto generará los archivos `.class` necesarios.
 
@@ -62,7 +62,7 @@ Para distribuir el juego sin necesidad de instalar Java, se puede generar un arc
    ```
 3. **Generar los `.jar` ejecutables**:
    ```sh
-   jar cfm MemoryGameServer.jar server_manifest.txt MemoryGameServer.class MemoryGameServer\$ClienteHandler.class
+   jar cfm MemoryGameServer.jar server_manifest.txt MemoryGameServer.class MemoryGameServer$ClienteHandler.class
    jar cfm MemoryGameClient.jar client_manifest.txt MemoryGameClient.class
    ```
 
