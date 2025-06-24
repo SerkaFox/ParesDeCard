@@ -8,7 +8,7 @@ Este proyecto es un **juego de memoria multijugador en red**, desarrollado en **
 Antes de compilar o ejecutar el proyecto, asegúrate de tener instalado **Java 23**.
 
 🔗 **Descargar Java (JDK 23):**  
-[https://download.oracle.com/java/23/latest/jdk-23_windows-x64_bin.msi](https://download.oracle.com/java/23/latest/jdk-23_windows-x64_bin.msi)
+[https://download.oracle.com/java/23/archive/jdk-23.0.2_windows-x64_bin.exe](https://download.oracle.com/java/23/archive/jdk-23.0.2_windows-x64_bin.exe)
 
 ### 📌 **Configurar Variables de Entorno**
 Después de instalar el JDK, es necesario agregar Java al `Path`:
