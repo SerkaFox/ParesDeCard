@@ -9,6 +9,8 @@ Antes de compilar o ejecutar el proyecto, asegúrate de tener instalado **Java 2
 
 🔗 **Descargar Java (JDK 23):**  
 [https://download.oracle.com/java/23/archive/jdk-23.0.2_windows-x64_bin.exe](https://download.oracle.com/java/23/archive/jdk-23.0.2_windows-x64_bin.exe)
+y
+[https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.15%2B6/OpenJDK17U-jdk_x64_windows_hotspot_17.0.15_6.msi](https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.15%2B6/OpenJDK17U-jdk_x64_windows_hotspot_17.0.15_6.msi)
 
 ### 📌 **Configurar Variables de Entorno**
 Después de instalar el JDK, es necesario agregar Java al `Path`:
